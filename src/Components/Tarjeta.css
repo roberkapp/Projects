@@ -1,0 +1,27 @@
+.tarjeta{
+    width: 30%;
+    height: 27%;
+    margin: 1rem 1.5rem;
+    border: gray double 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items:center;
+    overflow: hidden;
+}
+
+.poke-sprite{
+    width: 120px;
+    height: auto;
+}
+
+.nombre{
+    width: 98%;
+    color:goldenrod;
+    height: 2rem;
+    line-height: 1.6rem;
+    font-size: 1rem;
+    font-weight: 400;
+    border: goldenrod solid 2px;
+    margin: auto;
+}

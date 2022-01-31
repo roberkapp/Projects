@@ -1,0 +1,10 @@
+.footer{
+    height:2rem;
+    width: 100%;
+    line-height: 2rem;
+    font-family: sans-serif;
+    background-color: black;
+    color:goldenrod;
+    position: absolute;
+    bottom: -40%;
+}
